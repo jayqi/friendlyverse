@@ -1,0 +1,19 @@
+Package: friendlyverse
+Type: Package
+Title: Distribution of friendlyverse Packages
+Version: 0.1.0
+Authors@R: c(
+    person("Jay", "Qi", email = "jayqi.opensource@gmail.com", role = c("aut", "cre")),
+    person("Stephanie", "Kirmer", email = "stephanie@stephaniekirmer.com", role = c("aut"))
+    )
+Maintainer: Jay Qi <jayqi.opensource@gmail.com>
+Description: The 'friendlyverse' is a set of packages that work in
+    harmony because they are all about having fun. This package is designed to
+    make it easy to install and load multiple 'friendlyverse' packages in a
+    single step. Use your power of humor for good, not evil. 
+Imports:
+    spongebob,
+    radlibs
+License: BSD_3_clause + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 6.1.1
